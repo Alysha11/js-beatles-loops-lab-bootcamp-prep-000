@@ -24,6 +24,6 @@ const facts = [
 function johnLennonFacts (facts) {
   
   var i=0
-  var exclaimedFacts []
+  var exclaimedFacts = []
   
 }
