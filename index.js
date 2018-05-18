@@ -32,7 +32,7 @@ i++;
 return exclaimedFacts;
 } 
 
- function iLoveTheBeatles(n){
+ function iLoveTheBeatles(n) {
 var strings=[];
 do{
 n++;
