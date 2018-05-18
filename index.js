@@ -13,3 +13,5 @@ return statements;
 
 
 }
+
+function johnLennonFacts (facts)
