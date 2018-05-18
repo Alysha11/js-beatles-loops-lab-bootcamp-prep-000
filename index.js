@@ -3,13 +3,13 @@ var instruments = ["Guitar", "Bass Guitar", "Lead Guitar", "Drums"];
 
 function theBeatlesPlay(musicians, instruments) {
   var artist; 
-  var instrument = [];
+  var statements = [];
   for (var i = 0;  i< musicians.length; i ++) {
   
-  artist=musicians[i] + ' plays ' + instruments[i];
-  instrument [i] = artist;
+  artist=musicians[i] + ' plays ' + statements[i];
+  statements [i] = artist;
 }
-return instrument;
+return statements;
 
 
 }
