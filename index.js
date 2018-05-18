@@ -9,7 +9,7 @@ function theBeatlesPlay(musicians, instruments) {
   artist=musicians[i] + ' plays ' + instruments[i];
   instrument [i] = artist;
 }
-return artist;
+return instrument;
 
 
 }
