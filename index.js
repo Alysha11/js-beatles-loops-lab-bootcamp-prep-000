@@ -6,10 +6,10 @@ function theBeatlesPlay(musicians, instruments) {
   var instrument = [];
   for (i = 0;  i< musicians.length; i ++) {
   
-  artists=musicians[i] + 'plays' + instruments[i];
-  instrument [i] = aritist
+  artist=musicians[i] + 'plays' + instruments[i];
+  instrument [i] = aritist;
 }
-return artists;
+return artist;
 
 
 }
