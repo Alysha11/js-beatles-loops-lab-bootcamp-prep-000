@@ -6,7 +6,7 @@ function theBeatlesPlay(musicians, instruments) {
   var instrument = [];
   for (var i = 0;  i< musicians.length; i ++) {
   
-  artist=musicians[i] + 'plays ' + instruments[i];
+  artist=musicians[i] + ' plays ' + instruments[i];
   instrument [i] = artist;
 }
 return artist;
