@@ -23,6 +23,7 @@ const facts = [
 
 function johnLennonFacts (facts) {
   
-  while var 
+  var i=0
+  
   
 }
