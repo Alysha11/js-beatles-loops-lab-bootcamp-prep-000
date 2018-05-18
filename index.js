@@ -6,7 +6,7 @@ function theBeatlesPlay(musicians, instruments) {
   var instrument = [];
   for (i = 0;  i< musicians.length; i ++) {
   
-  artists=
+  artists=musicians
 }
 return artists;
 
