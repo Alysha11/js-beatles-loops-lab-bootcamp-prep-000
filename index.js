@@ -25,6 +25,11 @@ function johnLennonFacts (facts) {
   
   var i=0;
   var exclaimedFacts = [];
-  while (facts.length > i)
+  while (facts.length > i){
+    
+    
+    
+    
+  }
   
 }
